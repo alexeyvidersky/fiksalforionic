@@ -1,0 +1,17 @@
+ion-item.checkbox-container {
+    --padding-start: 5px;
+    --inner-border-width: 0;
+    margin: 0 -10px;
+}
+
+ion-checkbox.f-checkbox {
+    width: 26px;
+    height: 26px;
+    margin-inline: 8px;
+    --border-radius: 0;
+    --border-width: 2px;
+    --background-checked: #ffffff;
+    --checkmark-color: black;
+    --checkmark-width: 3px;
+    --border-color-checked: black;
+}

@@ -1,0 +1,7 @@
+.header-logo {
+    margin: 100px 36px 64px 36px;
+}
+
+.header-logo-no-padding {
+    margin: 32px 36px !important;
+}

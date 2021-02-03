@@ -1,0 +1,7 @@
+{
+  "name": "Fiksal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

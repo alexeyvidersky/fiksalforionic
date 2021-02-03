@@ -1,0 +1,5 @@
+.f-textinput {
+    height: 50px;
+    border: 1px solid lightgray;
+    --padding-start: 10px;
+}
